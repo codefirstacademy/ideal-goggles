@@ -1,2 +1,2 @@
 # ideal-goggles
-Basic Programming Codes in C, C++, Python
+Basic Programming Codes in Python
